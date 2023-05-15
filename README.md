@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lesith
-- 👀 I’m interested in unicorns!
-- 🌱 I’m currently learning JavaScript and FastAPI
+- 👀 I’m interested in speed!
+- 🌱 I’m currently learning JavaScript and Astro
 - 💞️ I’m looking to collaborate on anything with a dark theme 😁
-- 📫 How to reach me - https://www.lesith.online/
+- 📫 How to reach me - https://www.theagilehandbook.com/
 
 <!---
 lesith/lesith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
